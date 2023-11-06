@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'uzairsmarketplace'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D4CA17373B8442185C5C5C64CF17592 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C474A66F4F2D43FDBDD40E14F1AC5F26 }}
